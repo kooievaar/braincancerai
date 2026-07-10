@@ -9,3 +9,12 @@ python ./unet_training.py
 this creates the model. or download the model file i prebuilt
 
 further instructions are in the paper pdf file, the official publication file. (how do I put this on arxiv)
+
+FUL PROJECT ZIP DOWNLOAD:
+Main server:
+https://danakajesus.dpdns.org/H%3A/__MRI/braincancerai.zip
+
+Mirror #1:
+https://danakajesus.dpdns.org/F%3A/braincancerai.zip
+
+Use the mirror if main server is slow.
